@@ -1,0 +1,54 @@
+.main_nav_menu_li{
+	color: #4AC20E;
+	list-style-type: none;
+	text-decoration: none;
+	font-size: 30px;
+}
+.main_nav_menu_li2{
+	color: #3D58A6;
+	list-style-type: none;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.n1{
+	 position: relative;
+    left: 80px;
+    color: #3D58A6;
+	list-style-type: none;
+	text-decoration: none;
+	font-size: 52px;
+	border: 5px solid #4AC20E;
+
+}
+.logo{
+	margin-right: 80px;
+	position: relative;
+    left: 40px;
+}
+.about{
+	margin-right: 80px;
+	position: relative;
+    left: 40px;
+    color: #3D58A6;
+    margin-top: 100px;
+
+    
+}
+.contact_footer{
+	text-align: center;
+	color: #3D58A6;
+	position: relative;
+	font-weight: bold;
+	margin-top: 280px;
+}
+.more_info{
+	margin-right: 80px;
+	position: relative;
+    left: 40px;
+    color: #3D58A6;
+    margin-top: 100px;
+    text-decoration: underline;
+    border-bottom: 5px solid #3D58A6;
+    text-decoration: none;
+    display: inline-block;
+}
